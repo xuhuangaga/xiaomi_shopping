@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-address-edit": "/node-modules/cc-ui-uni-app/components/cc-address-edit/cc-address-edit",
+    "head": "/components/top/top"
+  }
+}

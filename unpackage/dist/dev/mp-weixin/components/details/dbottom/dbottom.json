@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-goods-action": "/node-modules/cc-ui-uni-app/components/cc-goods-action/cc-goods-action"
+  }
+}

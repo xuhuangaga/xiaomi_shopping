@@ -1,0 +1,1 @@
+<view class="p-f d-bottom bc-w data-v-edf66652" style="z-index:998;"><cc-goods-action vue-id="d0d561e2-1" options="{{options}}" buttons="{{buttons}}" data-event-opts="{{[['^click',[['goto']]],['^clickButton',[['checkLogin']]]]}}" bind:click="__e" bind:clickButton="__e" class="data-v-edf66652" bind:__l="__l"></cc-goods-action></view>

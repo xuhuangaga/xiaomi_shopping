@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/search/top/top",
+    "history": "/components/search/history/history",
+    "hot": "/components/search/hot/hot",
+    "list": "/components/search/datalist/datalist",
+    "head": "/components/top/top"
+  }
+}

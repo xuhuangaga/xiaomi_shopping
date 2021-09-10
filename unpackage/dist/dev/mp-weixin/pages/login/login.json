@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "log-res": "/components/loginres/loginres"
+  }
+}

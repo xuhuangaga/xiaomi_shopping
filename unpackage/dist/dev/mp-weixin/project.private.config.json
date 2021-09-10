@@ -1,0 +1,72 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/index/index",
+          "pathName": "/pages/classify/classify",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/classify/classify",
+          "pathName": "pages/classify/classify",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/search/search",
+          "pathName": "pages/search/search",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/productlist/productlist",
+          "pathName": "pages/productlist/productlist",
+          "query": "keyword=%E5%B0%8F%E7%B1%B311",
+          "scene": null
+        },
+        {
+          "name": "pages/details/details",
+          "pathName": "pages/details/details",
+          "query": "id=612c92ec82b46323e869b306",
+          "scene": null
+        },
+        {
+          "name": "pages/carts/carts",
+          "pathName": "pages/carts/carts",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/home/home",
+          "pathName": "pages/home/home",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xmmap/xmmap",
+          "pathName": "pages/xmmap/xmmap",
+          "query": "name=%E9%98%BF%E6%8B%89%E5%96%84%E7%9B%9F&id=71",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

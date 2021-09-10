@@ -1,0 +1,1 @@
+<view class="pro-list data-v-4541abc3"><block wx:for="{{searchListAll}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['save',['$0','$1'],[[['searchListAll','',index,'name']],[['searchListAll','',index,'_id']]]]]]]}}" class="b-b p-10 data-v-4541abc3" bindtap="__e">{{''+item.name+''}}</view></block></view>

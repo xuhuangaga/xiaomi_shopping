@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "head": "/components/top/top",
+    "car": "/components/carts/carts"
+  }
+}

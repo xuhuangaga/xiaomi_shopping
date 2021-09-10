@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-tabs": "/node-modules/cc-ui-uni-app/components/cc-tabs/cc-tabs",
+    "recommend": "/components/details/recommend/recommend"
+  }
+}

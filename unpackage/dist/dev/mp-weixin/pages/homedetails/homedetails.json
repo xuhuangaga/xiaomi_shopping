@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-icon": "/node-modules/cc-ui-uni-app/components/cc-icon/cc-icon",
+    "head": "/components/top/top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-submit-bar": "/node-modules/cc-ui-uni-app/components/cc-submit-bar/cc-submit-bar",
+    "cc-password-input": "/node-modules/cc-ui-uni-app/components/cc-password-input/cc-password-input",
+    "head": "/components/top/top",
+    "orders": "/components/orders/orders"
+  }
+}

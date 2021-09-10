@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-tabs": "/node-modules/cc-ui-uni-app/components/cc-tabs/cc-tabs",
+    "cc-icon": "/node-modules/cc-ui-uni-app/components/cc-icon/cc-icon",
+    "head": "/components/top/top",
+    "recommend": "/components/recommend/recommend"
+  }
+}

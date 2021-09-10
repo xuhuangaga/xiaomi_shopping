@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/components/details/dtop/dtop",
+    "banner": "/components/details/dbanner/dbanner",
+    "head": "/components/top/top",
+    "info": "/components/details/dinfo/dinfo",
+    "spec": "/components/details/dspec/dspec",
+    "recommend": "/components/details/drecommend/drecommend",
+    "introduce": "/components/details/dintroduce/dintroduce",
+    "comment": "/components/details/dcomment/dcomment",
+    "bottom": "/components/details/dbottom/dbottom"
+  }
+}

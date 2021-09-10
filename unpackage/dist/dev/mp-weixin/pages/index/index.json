@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-notice-bar": "/node-modules/cc-ui-uni-app/components/cc-notice-bar/cc-notice-bar",
+    "top": "/components/index/top/top",
+    "top-w-x": "/components/index/topWX/topWX",
+    "banner": "/components/index/banner/banner",
+    "nav": "/components/index/nav/nav",
+    "news": "/components/index/new/new",
+    "tabs": "/components/index/tabs/tabs",
+    "goods": "/components/index/goods/goods"
+  }
+}

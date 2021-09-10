@@ -1,0 +1,1 @@
+<view class="tab1 data-v-9048964e"><cc-swiper vue-id="439b674d-1" list="{{list}}" height="700" mode="number" class="data-v-9048964e" bind:__l="__l"></cc-swiper></view>

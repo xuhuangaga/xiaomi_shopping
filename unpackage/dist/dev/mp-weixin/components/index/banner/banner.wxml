@@ -1,0 +1,1 @@
+<view class="data-v-02e06107"><view class="bb data-v-02e06107"></view><view class="ban-dv p-r data-v-02e06107"><cc-swiper class="i-cc-swiper data-v-02e06107" vue-id="592c40df-1" list="{{banner}}" data-event-opts="{{[['^click',[['handleClick']]]]}}" bind:click="__e" bind:__l="__l"></cc-swiper></view></view>

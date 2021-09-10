@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "left": "/components/category/left/left",
+    "right": "/components/category/right/right",
+    "search": "/components/category/search/search"
+  }
+}

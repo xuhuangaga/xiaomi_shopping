@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-load-more": "/node-modules/cc-ui-uni-app/components/cc-load-more/cc-load-more",
+    "cc-mask": "/node-modules/cc-ui-uni-app/components/cc-mask/cc-mask",
+    "top": "/components/search/top/top",
+    "head": "/components/top/top",
+    "list": "/components/search/datalist/datalist"
+  }
+}

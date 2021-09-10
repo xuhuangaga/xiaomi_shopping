@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search",
+    "cc-index-bar": "/node-modules/cc-ui-uni-app/components/cc-index-bar/cc-index-bar",
+    "cc-index-anchor": "/node-modules/cc-ui-uni-app/components/cc-index-anchor/cc-index-anchor",
+    "head": "/components/top/top"
+  }
+}

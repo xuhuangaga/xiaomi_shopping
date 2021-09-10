@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/carts/carts",
+    "pages/classify/classify",
+    "pages/circle/circle",
+    "pages/details/details",
+    "pages/productlist/productlist",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/orders/orders",
+    "pages/editAddress/editAddress",
+    "pages/address/address",
+    "pages/userorders/userorders",
+    "pages/comment/comment",
+    "pages/seckill/seckill",
+    "pages/home/home",
+    "pages/xmmap/xmmap",
+    "pages/homedetails/homedetails",
+    "pages/routeplanning/routeplanning",
+    "pages/cservice/cservice"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#Ff6c18",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/icon-home.png",
+        "selectedIconPath": "static/tabbar/icon-home-selected.png"
+      },
+      {
+        "text": "分类",
+        "pagePath": "pages/classify/classify",
+        "iconPath": "static/tabbar/icon-category.png",
+        "selectedIconPath": "static/tabbar/icon-category-selected.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/carts/carts",
+        "iconPath": "static/tabbar/icon-cart.png",
+        "selectedIconPath": "static/tabbar/icon-cart-selected.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my",
+        "iconPath": "static/tabbar/icon-user.png",
+        "selectedIconPath": "static/tabbar/icon-user-selected.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "小米商城正在获取您的定位"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

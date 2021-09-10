@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['goto',['$event']]]]]}}" class="p-f z data-v-599e3c99" bindtap="__e"><view class="swx-dv bc-w data-v-599e3c99"><cc-search vue-id="4bac50e6-1" round="{{true}}" disabled="{{true}}" showAction="{{false}}" class="data-v-599e3c99" bind:__l="__l"></cc-search></view></view>

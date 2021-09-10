@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cc-search": "/node-modules/cc-ui-uni-app/components/cc-search/cc-search"
+  },
+  "component": true
+}

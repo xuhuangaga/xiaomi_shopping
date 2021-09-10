@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cc-checkbox": "/node-modules/cc-ui-uni-app/components/cc-checkbox/cc-checkbox",
+    "cc-swipe-cell": "/node-modules/cc-ui-uni-app/components/cc-swipe-cell/cc-swipe-cell",
+    "cc-stepper": "/node-modules/cc-ui-uni-app/components/cc-stepper/cc-stepper",
+    "cc-button": "/node-modules/cc-ui-uni-app/components/cc-button/cc-button",
+    "spec": "/components/details/dspec/dspec"
+  }
+}
